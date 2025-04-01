@@ -33,9 +33,9 @@ The training is designed for **both coders and non-coders**, with **interactive 
 
 ## Setup & Usage Guide
 
-All steps are run on **Google Colab**. You do not need to install anything locally.
-Make sure to access the GPU.
-**Runtime > Change runTime type > T4 GPU**
+All steps are run on **Google Colab**. You do not need to install anything locally. <br />
+Make sure to access the GPU. <br />
+**Runtime > Change runTime type > T4 GPU** 
 
 ### 1. Download Papers
 - A set of open access academic PDF papers is preloaded in this repository.
