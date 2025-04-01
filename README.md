@@ -38,7 +38,7 @@ All steps are run on **Google Colab**. You do not need to install anything local
 ### 1. Download Papers
 - A set of open access academic PDF papers is preloaded in this repository.
 
-
+---
 
 ### 2. Convert PDF to Markdown Text
 - **Install Nougat** from GitHub (an open-source OCR-based tool for PDF parsing).
@@ -46,26 +46,26 @@ All steps are run on **Google Colab**. You do not need to install anything local
 - **Preview extracted text** using `IPython.display`.
 - _Optional_: Open the `.mmd` markdown file in **Overleaf** for clearer formatting.
 
-
+---
 
 ### 3. Clean Raw Text
 - **Remove unwanted sections** (e.g., acknowledgments, references).
 - Optionally remove abstract and introduction.
 - Re-preview the `.mmd` file as above to confirm it's clean.
 
-
+---
 
 ### 4. Login to Hugging Face
 - You'll be prompted to **enter your Hugging Face access token**.
 - This is required to use the LLaMA model via the Transformers library.
 
-
+---
 
 ### 5. Install Transformers v4.49.0
 - This specific version of Hugging Face Transformers is needed for compatibility.
 - Runtime will **restart automatically** after installation.
 
-
+---
 
 ### 6. Extract Alloy and Phase Information
 - Use a **LLaMA-based LLM** to extract structured data from `.mmd` files.
@@ -74,20 +74,20 @@ All steps are run on **Google Colab**. You do not need to install anything local
   - Extracts phase-related information
   - Cleans the output and saves it as `.json` files in an output folder
 
-
+---
 
 ### 7. Preview Extracted Data
 - Load and display the structured JSON data of extracted alloy and phase information.
 - Easy to review in table or dictionary format.
 
-
+---
 
 ### 8. Utilities (Optional)
 If you run into memory or performance issues:
 - **Free GPU Memory**: Clears unused variables and CUDA memory cache.
 - **Clear Cache**: Choose to clean Hugging Face and/or PyTorch cache.
 
-
+---
 
 ## 📚 Citations
 
