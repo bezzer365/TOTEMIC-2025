@@ -13,9 +13,9 @@ Welcome to the GitHub repository for the session at the **TOTEMIC Training Schoo
 - Joshua Berry ^{3}
 - Katerina Christofidou ^{3}
 
-1. Computer Science
-2. AIRE
-3. Material Science
+1. _Computer Science Department, University of Sheffield, UK_
+2. _AI Research Engineering Team, Centre for Machine Intelligence, University of Sheffield, UK_
+3. _Material Science and Engineering Department, University of Sheffield, UK_
 
 ---
 
