@@ -44,14 +44,14 @@ All steps are run on **Google Colab**. You do not need to install anything local
 - **Install Nougat** from GitHub (an open-source OCR-based tool for PDF parsing).
 - Run Nougat to convert PDFs to `.mmd` markdown files.
 - **Preview extracted text** using `IPython.display`.
-- Optional: Open `.mmd` in **Overleaf** for clearer formatting.
+- _Optional_: Open the `.mmd` markdown file in **Overleaf** for clearer formatting.
 
 
 
 ### 3. Clean Raw Text
 - **Remove unwanted sections** (e.g., acknowledgments, references).
 - Optionally remove abstract and introduction.
-- Re-preview `.mmd` file as above to confirm it's clean.
+- Re-preview the `.mmd` file as above to confirm it's clean.
 
 
 
