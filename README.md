@@ -8,10 +8,10 @@ Welcome to the GitHub repository for the session at the **TOTEMIC Training Schoo
 
 ## Authors 
 
-- Xianyuan Liu ^{1,2}
-- Alan Thomas ^{1,2}
-- Joshua Berry ^{3}
-- Katerina Christofidou ^{3}
+- Xianyuan Liu <sup>1,2</sup>
+- Alan Thomas <sup>1,2</sup>
+- Joshua Berry <sup>3</sup>
+- Katerina Christofidou <sup>3</sup>
 
 1. _Computer Science Department, University of Sheffield, UK_
 2. _AI Research Engineering Team, Centre for Machine Intelligence, University of Sheffield, UK_
