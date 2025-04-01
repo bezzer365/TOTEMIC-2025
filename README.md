@@ -4,7 +4,7 @@ Welcome to the GitHub repository for the session at the TOTEMIC Training School 
 
 # 🧪 Extracting Alloy Data from Scientific PDFs – Training School
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bezzer365/TOTEMIC-2025/blob/main/Colab_Notebook.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bezzer365/TOTEMIC-2025/blob/main/NLP_for_Materials.ipynb)
 
 Welcome to the GitHub repository for our **Training School on Extracting Alloy Data from PDF Files**.  
 This repository contains all the code, tools, and examples you'll need to **automatically extract alloy composition and phase information** from scientific papers using **Nougat** and **LLMs (LLaMA via Hugging Face Transformers)**. All steps are designed to be run on **Google Colab**, making use of its free GPU resources.
