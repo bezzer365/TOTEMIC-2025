@@ -4,7 +4,6 @@
 
 Welcome to the GitHub repository for the session at the **TOTEMIC Training School 2025: "Tools for Energy Materials Modelling Acceleration"** on Extracting Alloy Data from PDF Files. This repository contains all the code, tools, and examples you’ll need to automatically extract alloy composition and phase information from scientific papers using **Nougat** and **LLMs (LLaMA via Hugging Face Transformers)**. All steps are designed to be run on **Google Colab**, making use of its free GPU resources.
 
----
 
 ## Authors 
 
@@ -16,8 +15,6 @@ Welcome to the GitHub repository for the session at the **TOTEMIC Training Schoo
 1. _Computer Science Department, University of Sheffield, UK_
 2. _AI Research Engineering Team, Centre for Machine Intelligence, University of Sheffield, UK_
 3. _Material Science and Engineering Department, University of Sheffield, UK_
-
----
 
 ## Aim
 
