@@ -34,6 +34,8 @@ The training is designed for **both coders and non-coders**, with **interactive 
 ## Setup & Usage Guide
 
 All steps are run on **Google Colab**. You do not need to install anything locally.
+Make sure to access the GPU.
+**Runtime > Change runTime type > T4 GPU**
 
 ### 1. Download Papers
 - A set of open access academic PDF papers is preloaded in this repository.
@@ -50,7 +52,7 @@ All steps are run on **Google Colab**. You do not need to install anything local
 
 ### 3. Clean Raw Text
 - **Remove unwanted sections** (e.g., acknowledgments, references).
-- Optionally remove abstract and introduction.
+- _Optional_: Remove abstract and introduction.
 - Re-preview the `.mmd` file as above to confirm it's clean.
 
 ---
@@ -82,7 +84,7 @@ All steps are run on **Google Colab**. You do not need to install anything local
 
 ---
 
-### 8. Utilities (Optional)
+### 8. Utilities _(Optional)_
 If you run into memory or performance issues:
 - **Free GPU Memory**: Clears unused variables and CUDA memory cache.
 - **Clear Cache**: Choose to clean Hugging Face and/or PyTorch cache.
