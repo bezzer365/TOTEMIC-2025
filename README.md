@@ -95,12 +95,12 @@ The following tools are used in the construction of this work:
 
 - **Nougat**: 
   > @misc{blecher2023nougat,
-      title={Nougat: Neural Optical Understanding for Academic Documents}, 
-      author={Lukas Blecher and Guillem Cucurull and Thomas Scialom and Robert Stojnic},
-      year={2023},
-      eprint={2308.13418},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+  > title={Nougat: Neural Optical Understanding for Academic Documents},
+  > author={Lukas Blecher and Guillem Cucurull and Thomas Scialom and Robert Stojnic},
+  > year={2023},
+  > eprint={2308.13418},
+  > archivePrefix={arXiv},
+  > primaryClass={cs.LG}
 }
 
 - **LLaMA**:
