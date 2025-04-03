@@ -37,8 +37,7 @@ All steps are run on **Google Colab**. You do not need to install anything local
 Make sure to access the GPU. <br />
 **Runtime > Change runTime type > T4 GPU** 
 
-You will also need to sign up for a Hugging Face account to use the LLaMa model via the Transformers Library.
-[Sign up for Hugging Face](https://huggingface.co/join) to access LLM models via the Transformers library.
+You will also need to [Sign up for Hugging Face](https://huggingface.co/join) for free to obtain a token to access the LLaMa models via the Transformers Library.
 
 
 ### 1. Download Papers
