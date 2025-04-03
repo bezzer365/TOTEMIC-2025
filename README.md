@@ -39,6 +39,7 @@ Make sure to access the GPU. <br />
 
 You will also need to [Sign up for Hugging Face](https://huggingface.co/join) for free to obtain a token to access the LLaMa models via the Transformers Library.
 
+---
 
 ### 1. Download Papers
 - A set of open access academic PDF papers is preloaded in this repository.
